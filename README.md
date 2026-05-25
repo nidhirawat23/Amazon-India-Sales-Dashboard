@@ -13,6 +13,10 @@ for April-May 2022 using Power Query and PivotTables.
 ## Dataset
 Amazon India Sales Report — 18,651 orders across April-May 2022
 
+## Data Source
+Dataset sourced from Kaggle:
+[Amazon India Sales Report](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
+
 ## Key Insights
 - Maharashtra leads revenue at ₹20L+
 - Set category dominates with highest revenue
