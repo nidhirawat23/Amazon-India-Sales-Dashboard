@@ -21,7 +21,7 @@ Amazon India Sales Report — 18,651 orders across April-May 2022
 - Sunday records highest weekly sales
 
 ## Dashboard Preview
-![Dashboard Preview](Mydashboard_preview.png)
+![Dashboard Preview](Mydashboard.png)
 
 ## Skills Demonstrated
 Data cleaning, exploratory data analysis, 
